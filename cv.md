@@ -23,7 +23,7 @@ Before studying programming, I studied international law at university, and then
 * Version control: Git (remote service GitHub)
 * Editors: PyCharm, VSCode
 # Code example:
-Codewars
+I will add my code later
 # Education:
 * **Bachelor, Belarus State University**
     * Faculty of International Relations
